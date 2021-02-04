@@ -1,5 +1,4 @@
-# miq
-# Script to monitor MIQ
+ # Script to monitor MIQ
 
 This bash script will continuously cURL the MIQ webpage and check for available dates.
 
@@ -17,9 +16,9 @@ Chrome Extensions like 'Easy Auto Refresh' will keep you logged into the page an
 
 ## How to run
 
-Linux - you know what to do
-Mac - run this in bash in your terminal.
-Windows - You can install WSL, git bash, cygwin, docker, etc
+- Linux - you know what to do
+- Mac - run this in bash in your terminal.
+- Windows - You can install WSL, git bash, cygwin, docker, etc
 
 ```bash ./run.sh```
 
